@@ -2,7 +2,8 @@ body{
     font-family: Arial, Verdana;
     background: #000000;
     color: #FFFFFF;
-    border-width: 20px 20px 0 20px;
+    margin: 20px 20px 0 20px;
+
 }
 h1{
     font-size: 42px;
@@ -42,7 +43,6 @@ div{
     border-width: 0 0 2px 5px;
 }
 .blue{
-    /* should i add div? */
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
